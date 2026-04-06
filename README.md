@@ -2,8 +2,6 @@
 
 I build AI-powered pipelines and business intelligence systems — production software deployed for real clients.
 
-Currently building **XTelo**, a media monitoring platform that watches 500+ news sources around the clock, scores articles with LLM, and delivers curated intelligence briefings to Telegram, Facebook, and LinkedIn.
-
 ---
 
 ## Tech Stack
