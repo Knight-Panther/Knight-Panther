@@ -73,6 +73,8 @@ AI media monitoring pipeline. Ingests 500+ RSS sources, deduplicates semanticall
 
 ### 📍 [Telo Business Directory](https://github.com/Knight-Panther/Telo-Business-Directory)
 
+<img src="./assets/telo-directory-hero.jpg" width="100%" alt="Telo Business Directory"/>
+
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express_5-000000?style=for-the-badge&logo=express&logoColor=white)
