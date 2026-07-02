@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Giorgi%20Teliashvili&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20Pipelines%20%C2%B7%20Business%20Intelligence%20%C2%B7%20Cross-Platform%20Products&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Giorgi%20Teliashvili&fontSize=42&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=AI%20Pipelines%20%C2%B7%20Business%20Intelligence%20%C2%B7%20Cross-Platform%20Products&descAlignY=60&descSize=16" width="100%"/>
 
 I build AI-powered pipelines, business intelligence systems, and cross-platform
 products — production software deployed for real clients and real users.
@@ -103,7 +103,7 @@ Bilingual Georgian/English local business directory live at [telo.ge](https://ww
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgi-teliashvili-77b47935b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Knight-Panther)
 
 </div>
