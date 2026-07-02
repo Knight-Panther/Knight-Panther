@@ -18,6 +18,7 @@ I build AI-powered pipelines and business intelligence systems — production so
 ---
 
 ## Projects
+### 🗼 [Game Space Counter](https://github.com/Knight-Panther/space-counter)
 
 ### 🗼 [Telo Watch Tower](https://github.com/Knight-Panther/Telo-watch-tower)
 
