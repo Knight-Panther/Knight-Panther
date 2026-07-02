@@ -92,8 +92,10 @@ Bilingual Georgian/English local business directory live at [telo.ge](https://ww
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Knight-Panther&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knight-Panther&layout=compact&hide_border=true&theme=tokyonight"/>
+![Followers](https://img.shields.io/github/followers/Knight-Panther?style=for-the-badge&logo=github&color=181717&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Knight-Panther&style=for-the-badge&color=181717&label=Profile+Views)
+
+See the full contribution graph and pinned repositories on the [profile page](https://github.com/Knight-Panther).
 
 </div>
 
