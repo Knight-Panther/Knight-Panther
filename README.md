@@ -3,7 +3,7 @@
   <img src="assets/banner-light.webp" alt="Giorgi Teliashvili: I automate the boring, so life gets more fun." width="100%">
 </picture>
 
-Hunting for awesome things and making them even better! Everything below is live or on its way.
+Hunting for awesome things and making them even better!
 
 ## Projects
 
