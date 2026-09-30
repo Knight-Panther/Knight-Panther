@@ -1,9 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.webp">
-  <img src="assets/banner-light.webp" alt="Giorgi Teliashvili, in Georgian and in English" width="100%">
+  <img src="assets/banner-light.webp" alt="Giorgi Teliashvili, software developer in Tbilisi, Georgia" width="100%">
 </picture>
 
-I'm a developer in Tbilisi. I build products for people in Georgia end to end: the crawler or AI pipeline behind them, the database, the interface, and the server they run on. Everything below is live or shipping.
+I build products for people in Georgia end to end: the crawler or AI pipeline behind them, the database, the interface, and the server they run on. Everything below is live or shipping.
 
 ## Projects
 
