@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.webp">
-  <img src="assets/banner-light.webp" alt="Giorgi Teliashvili: Automate the boring, Make life more fun." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Giorgi Teliashvili: Automate the boring, make life more fun." width="100%">
 </picture>
 
 Hunting for awesome things and making them even better!
