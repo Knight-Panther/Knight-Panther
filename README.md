@@ -1,9 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.webp">
-  <img src="assets/banner-light.webp" alt="Giorgi Teliashvili, software developer in Tbilisi, Georgia" width="100%">
+  <img src="assets/banner-light.webp" alt="Giorgi Teliashvili: I automate the boring, so life gets more fun." width="100%">
 </picture>
 
-I build products for people in Georgia end to end: the crawler or AI pipeline behind them, the database, the interface, and the server they run on. Everything below is live or shipping.
+Hunting for awesome things and making them even better! Everything below is live or on its way.
 
 ## Projects
 
